@@ -9,3 +9,8 @@ Concepts learned:
 * Implementing gravity and character jumping
 * Rendering text to screen for win / lose scenarios
 * Using delta time to render graphics independent of frame rate
+
+Sample:
+
+https://github.com/stevenwanderski/cpp-dapper-dasher/assets/473336/6e5ab9f5-f221-4c03-a016-cdecc0e29884
+
