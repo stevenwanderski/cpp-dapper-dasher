@@ -7,6 +7,7 @@ This is a simple run n' jump game written in C++ using the Raylib GUI library. T
 * Using a game loop for game logic
 * Rendering and animating sprites using a spritesheet
 * Implementing gravity and character jumping
+* Implementing a parallax scrolling background
 * Rendering text to screen for win / lose scenarios
 * Using delta time to render graphics independent of frame rate
 
